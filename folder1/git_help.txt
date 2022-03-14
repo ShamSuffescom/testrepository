@@ -1,0 +1,12 @@
+Before start working
+- git pull origin testing
+
+After working
+- git status // Check changes in files
+- git add . // Stage all files
+- git commit -m "Message" // Commit staged files 
+- git push origin testing // Push code to remote ==> if any conflict git pull origin testing
+
+vim editor
+- merge commit message
+- exit => esc --> :q --> enter
